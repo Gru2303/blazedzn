@@ -12,4 +12,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blazedzn&repo=caesars_code_decryptor&theme=dark&&title_color=A3FFF5&text_color=E0FFFB&icon_color=8DFDF0)](https://github.com/blazedzn/caesars_code_decryptor)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blazedzn&repo=Personal-Website&theme=dark&&title_color=A3FFF5&text_color=E0FFFB&icon_color=8DFDF0)](https://github.com/blazedzn/Personal-Website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blazedzn&repo=blazedzn.github.io&theme=dark&&title_color=A3FFF5&text_color=E0FFFB&icon_color=8DFDF0)](https://github.com/blazedzn/blazedzn.github.io)
